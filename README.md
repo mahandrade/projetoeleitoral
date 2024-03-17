@@ -1,6 +1,6 @@
 
 # Análise do Perfil Eleitoral do Adolescente Brasileiro
-Pensando nas últimas ocorrências na conjuntura brasileira, nosso grupo se propôs a fazer um estudo de análise dos dados do TSE no intuito de verificar se as propagandas de incentivo à adesão do título de eleitor por adolescentes, teve impacto efetivo.
+            Pensando nas últimas ocorrências na conjuntura brasileira, nosso grupo se propôs a fazer um estudo de análise dos dados do TSE no intuito de verificar se as propagandas de incentivo à adesão do título de eleitor por adolescentes, teve impacto efetivo.
 Dessa forma, como os órgãos públicos brasileiros disponibilizam dados referentes a seus ofícios nos sites oficiais, não foi difícil chegarmos à uma base com a quantidade de títulos tirados entre os anos de 2018 e 2022.
 As bases foram extraídas em formato CSV e inseridas no relacional utilizando a linguagem SQL, para que então a limpeza e manipulação dela, pudesse ser feita, a fim de nos trazer mais clareza na nossa análise.
 Enfrentamos alguns desafios ao longo do processo, como por exemplo, adolescentes com ensino superior, o que não é algo comum. Sendo assim, acreditamos que talvez a base esteja com alguns erros. Porém, como se trata de uma base oficial, seguimos com o trabalho, a fim de respondermos nossas perguntas.
